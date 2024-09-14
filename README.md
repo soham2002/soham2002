@@ -1,4 +1,4 @@
-<h2 align="left">Soham Banerjee</h2>
+<h1 align="left">Soham Banerjee</h1>
 
 ###
 
